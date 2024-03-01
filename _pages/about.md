@@ -9,17 +9,18 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Building 22, Office 3??</p>
+    <p>Université de Rennes, Campus de Beaulieu</p>
+    <p>Rennes, State 12345</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+ 
+I work in the area of smooth dynamical systems, using techniques from ergodic theory and homogeneous dynamics. Lately, I have been particularly interested in the behavior of the horocycle flow in the moduli space of abelian differentials and related dynamical systems, such as the horospherical foliation in invariant subvarieties of the moduli spaces. I am also interested various applications  in counting problems on abelian differentials. During my PhD, I studied the behavior of the isoperiodic foliation and applications to the classification of invariant subvarieties.
 
-I work in the area of smooth dynamical systems, yo double yo Write your biography here. Tell the world about yourself. 
 
 Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
