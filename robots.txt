@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://florentygouf.github.io/sitemap.xml
+Sitemap: https://fygf.github.io/sitemap.xml
