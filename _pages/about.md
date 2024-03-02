@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Maître de conférence à l'<a href='https://irmar.univ-rennes.fr/en'>IRMAR</a>, université de Rennes. 
+subtitle: Maître de conférence at Université de Rennes. 
 
 profile:
   align: right
