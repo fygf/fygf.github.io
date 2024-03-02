@@ -11,14 +11,16 @@ profile:
   more_info: >
     <p>Building 22, Office 3??</p>
     <p>Université de Rennes, Campus de Beaulieu</p>
-    <p>Rennes, State 12345</p>
+    <p>Rennes </p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
- 
+
+I am a member of the <a href='https://irmar.univ-rennes.fr/en/probability-statistics-and-ergodic-theory'> ergodic theory team</a> at the <a href='https://irmar.univ-rennes.fr/en'> IRMAR </a>. 
+
 I work in the area of smooth dynamical systems, using techniques from ergodic theory and homogeneous dynamics. Lately, I have been particularly interested in the behavior of the horocycle flow in the moduli space of abelian differentials and related dynamical systems, such as the horospherical foliation in invariant subvarieties of the moduli spaces. I am also interested various applications  in counting problems on abelian differentials. During my PhD, I studied the behavior of the isoperiodic foliation and applications to the classification of invariant subvarieties.
 
 
