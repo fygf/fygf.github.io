@@ -24,37 +24,65 @@
   },
   "work": [
     {
-      "name": "Institut de Recherche Mathématiques de Rennes, Université de Rennes",
+      "name": "Institut de Recherche Mathématiques de Rennes, Rennes University",
       "position": "Maître de conférence",
       "url": "https://example.com",
       "startDate": "2023-09-01",
       "endDate": "",
       "summary": "",
       "highlights": [""]
+    },
+    {
+      "name": "School of Mathematical Sciences, Tel Aviv University",
+      "position": "Postoctoral Researcher",
+      "url": "",
+      "startDate": "2022-09-01",
+      "endDate": "2023-08-30",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
+      "name": "School of Mathematical Sciences, Tel Aviv University",
+      "position": "Postoctoral Researcher",
+      "url": "",
+      "startDate": "2019-09-01",
+      "endDate": "2021-08-30",
+      "summary": "",
+      "highlights": [""]
+    },
+
+    {
+      "name": "Dipartimento di Matematica, Bologna University",
+      "position": "Postoctoral Researcher",
+      "url": "",
+      "startDate": "2021-09-01",
+      "endDate": "2022-08-30",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Université Grenoble Alpes",
+      "location": "Grenoble, France",
+      "url": "https://www.univ-grenoble-alpes.fr",
+      "area": "",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2016-09-01",
+      "endDate": "2019-08-30",
+      "score": "",
+      "courses": [""]
     }
   ],
   "awards": [
