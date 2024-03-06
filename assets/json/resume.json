@@ -42,17 +42,7 @@
       "highlights": [""]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": ""
-    }
-  ],
+  
   "education": [
     {
       "institution": "Université Grenoble Alpes",
@@ -74,7 +64,7 @@
       "startDate": "2013-09-01",
       "endDate": "2016-08-30",
       "score": "",
-      "courses": 
+      "courses": [""]
     }
   ],
   
