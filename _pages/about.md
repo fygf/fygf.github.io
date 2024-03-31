@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Campus de Beaulieu, bâtiment 22, Bureau 309</p>
+    <p>Campus de Beaulieu, bâtiment 22, Bureau 30</p>
     <p>263 avenue du Général Leclerc, CS 74205</p>
     <p>35042 Rennes CEDEX </p>
 
