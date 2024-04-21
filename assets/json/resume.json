@@ -29,8 +29,7 @@
       "url": "https://example.com",
       "startDate": "2023-09-01",
       "endDate": "now",
-      "summary": "",
-      "highlights": [""]
+      "summary": ""
     },
     {
       "name": "Tel Aviv University and Bologna University",
@@ -45,25 +44,22 @@
   "education": [
     {
       "institution": "Université Grenoble Alpes",
-      "location": "Grenoble, France",
       "url": "https://www.univ-grenoble-alpes.fr",
       "area": "",
       "studyType": "PhD",
       "startDate": "2016-09-01",
       "endDate": "2019-08-30",
-      "score": "",
-      "courses": [""]
+      "score": ""
     },
     {
       "institution": "École Normale Supérieure de Lyon",
-      "location": "Lyon, France",
       "url": "",
       "area": "",
       "studyType": "B.Sc & M.Sc in Mathematics",
       "startDate": "2013-09-01",
       "endDate": "2016-08-30",
       "score": "",
-      "courses": [""]
+      "courses": ""
     }
   ],
 
