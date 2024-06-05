@@ -8,16 +8,16 @@
     - name: Languages
       value: French, English
 
-- title: Work 
+- title: Work
   type: time_table
   contents:
     - title: Maître de Conférence
       institution: IRMAR, Université de Rennes
       year: 2023 - Present
-     
+
     - title: Postdoctoral Researcher
-      institution: Tel Aviv University, Israel & Bologna University, Italy. 
-      year: 2019-2021 
+      institution: Tel Aviv University, Israel & Bologna University, Italy.
+      year: 2019-2021
 
 - title: Education
   type: time_table
