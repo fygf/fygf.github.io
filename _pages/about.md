@@ -25,4 +25,4 @@ I work in the area of smooth dynamical systems, using techniques from ergodic th
 
 I organize the ergodic theory seminar that we hold every monday at 1:45pm at the IRMAR. If you want to come speak, do contact me !
 
-I also co-organize a weekly learning seminar at the IRMAR with my colleague Florestan Martin-Baillon on rigidity phenomena in homogeneous dynamics.
+I also co-organize a weekly learning seminar at the IRMAR with my colleague Florestan Martin-Baillon on rigidity phenomena in homogeneous dynamics. test
